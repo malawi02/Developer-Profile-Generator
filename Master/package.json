@@ -1,5 +1,5 @@
 {
-  "name": "developer",
+  "name": "master",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,12 +7,11 @@
   },
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "axios": "^0.19.2",
-    "electron": "^6.0.12",
+    "electron": "^8.2.2",
     "electron-html-to": "^2.6.0",
     "inquirer": "^7.1.0"
-  },
-  "devDependencies": {},
-  "description": ""
+  }
 }
